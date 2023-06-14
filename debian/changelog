@@ -1,0 +1,5 @@
+python-opentelemetry-exporter-otlp-proto-common (1.18.0-0pexip1) pexip; urgency=medium
+
+  * Prepare Pexip Packaging
+
+ -- Huw Jones <huw@pexip.com>  Wed, 14 Jun 2023 11:42:32 +0100
